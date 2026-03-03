@@ -1,0 +1,75 @@
+🌾 Project Title: Sacred Roots – Natural Farming Archive
+📜 Project Description:
+
+Sacred Roots is a digital community-driven archive that aims to preserve, document, and share India’s rich heritage of natural farming and sacred agricultural traditions. This interactive web app enables farmers, elders, educators, and community members to submit stories, images, audio, and video recordings related to:
+
+Indigenous farming wisdom
+
+Traditional tools and techniques
+
+Organic practices
+
+Rituals and festivals linked to agriculture
+
+Temple gardens and sacred groves
+
+Region-specific crops, composting, and seed-saving methods
+
+By creating a multilingual, multimedia repository, Sacred Roots promotes ecological sustainability, cultural resilience, and intergenerational knowledge transfer.
+
+🎯 Core Features:
+
+✅ Multilingual Support: Contributors can select from regional languages such as Telugu, Tamil, Hindi, Kannada, and more.
+
+✅ Text Submission: Share stories, rituals, or farming memories in written form.
+
+✅ Image Uploads: Document tools, seeds, harvests, or fields.
+
+✅ Audio Uploads: Record oral stories, traditional songs, or farming tips from elders.
+
+✅ Video Uploads: Capture and share natural farming rituals or practices.
+
+✅ Metadata Capture: Location, language, and contributor information stored with every entry.
+
+✅ Secure Upload & Archival: Files are saved in an organized directory and logged into a CSV archive for future research and display.
+
+🌱 Vision & Impact:
+
+This initiative is rooted in the belief that traditional farming systems are key to sustainable food futures. By combining technology with grassroots knowledge, Sacred Roots aspires to:
+
+Support community-led documentation of sacred agro-ecological wisdom
+
+Serve as an educational resource for students, researchers, and practitioners
+
+Inspire policy and cultural conversations around land, spirituality, and sustainability
+
+Encourage youth participation in preserving rural heritage
+
+🔧 Built With:
+
+Streamlit
+ – for the interactive web interface
+
+Python
+ – for backend and data handling
+
+Pandas
+ – for structured data storage
+
+HTML/CSS – for custom styling and background visuals
+
+CSV – as a lightweight archive format for contributions
+
+🧑‍🌾 Ideal Users:
+
+Natural and organic farmers
+
+Temple authorities and caretakers of sacred groves
+
+Ethnobotanists, agroecologists, and researchers
+
+Cultural documentation teams
+
+Rural youth and educators
+
+NGOs working in sustainability, agriculture, or heritage
